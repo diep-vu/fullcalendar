@@ -1,5 +1,4 @@
 {
-  "private": true,
   "name": "fullcalendar-workspace",
   "version": "5.5.0",
   "title": "FullCalendar",
@@ -79,7 +78,7 @@
     "autoprefixer": "^9.8.4",
     "bootstrap": "^3.4.1",
     "chokidar": "^2.1.5",
-    "concurrently": "^4.1.1",
+    "concurrently": "^5.3.0",
     "css-loader": "^4.3.0",
     "dragula": "^3.7.2",
     "eslint": "^7.12.1",
